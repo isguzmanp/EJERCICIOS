@@ -1,0 +1,39 @@
+{
+    "Fútbol": [
+        "jdiazcoronado",
+        "lrodriguez",
+        "cramirez",
+        "rfuentes"
+    ],
+    "Ajedrez": [
+        "jdiazcoronado",
+        "dmlunasol",
+        "acastillo",
+        "pgarcia",
+        "rfuentes"
+    ],
+    "Gimnasia": [
+        "jdiazcoronado",
+        "dmlunasol",
+        "mgranados",
+        "nbetancourt"
+    ],
+    "Baloncesto": [
+        "dmlunasol",
+        "lrodriguez",
+        "jsanchez"
+    ],
+    "Natación": [
+        "mgranados",
+        "pgarcia",
+        "nbetancourt"
+    ],
+    "Tenis": [
+        "acastillo",
+        "pgarcia"
+    ],
+    "Ciclismo": [
+        "cramirez",
+        "jsanchez"
+    ]
+}

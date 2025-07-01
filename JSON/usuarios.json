@@ -1,0 +1,72 @@
+{
+  "jdiazcoronado": {
+    "nombres": "Juan Antonio",
+    "apellidos": "Díaz Coronado",
+    "edad": 19,
+    "colombiano": true,
+    "deportes": ["Fútbol", "Ajedrez", "Gimnasia"]
+  },
+  "dmlunasol": {
+    "nombres": "Dorotea Maritza",
+    "apellidos": "Luna Sol",
+    "edad": 25,
+    "colombiano": false,
+    "deportes": ["Baloncesto", "Ajedrez", "Gimnasia"]
+  },
+  "mgranados": {
+    "nombres": "María José",
+    "apellidos": "Granados Peña",
+    "edad": 22,
+    "colombiano": true,
+    "deportes": ["Natación", "Gimnasia"]
+  },
+  "lrodriguez": {
+    "nombres": "Luis Fernando",
+    "apellidos": "Rodríguez Gómez",
+    "edad": 17,
+    "colombiano": false,
+    "deportes": ["Fútbol", "Baloncesto"]
+  },
+  "acastillo": {
+    "nombres": "Andrea",
+    "apellidos": "Castillo Ruiz",
+    "edad": 29,
+    "colombiano": true,
+    "deportes": ["Ajedrez", "Tenis"]
+  },
+  "cramirez": {
+    "nombres": "Carlos",
+    "apellidos": "Ramírez León",
+    "edad": 33,
+    "colombiano": true,
+    "deportes": ["Ciclismo", "Fútbol"]
+  },
+  "pgarcia": {
+    "nombres": "Paula",
+    "apellidos": "García Nieto",
+    "edad": 20,
+    "colombiano": false,
+    "deportes": ["Tenis", "Ajedrez", "Natación"]
+  },
+  "jsanchez": {
+    "nombres": "Javier",
+    "apellidos": "Sánchez Torres",
+    "edad": 18,
+    "colombiano": true,
+    "deportes": ["Baloncesto", "Ciclismo"]
+  },
+  "nbetancourt": {
+    "nombres": "Natalia",
+    "apellidos": "Betancourt Gil",
+    "edad": 24,
+    "colombiano": false,
+    "deportes": ["Natación", "Gimnasia"]
+  },
+  "rfuentes": {
+    "nombres": "Ricardo",
+    "apellidos": "Fuentes Mora",
+    "edad": 27,
+    "colombiano": true,
+    "deportes": ["Fútbol", "Ajedrez"]
+  }
+}
